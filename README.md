@@ -8,6 +8,7 @@ Frontend Developer specialising in creating complex user interfaces with React a
 If necessary for the business, I can provide front-end solutions using other frameworks or vanilla JavaScript. Strong background and understanding in application testing.
 
 Passionate for architecting and constructing responsive, modular and extensible pixel-perfect frontend component libraries.
+
 ---
 
 ### Tech stack 👨‍💻
