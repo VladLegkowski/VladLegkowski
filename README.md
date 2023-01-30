@@ -43,7 +43,7 @@ Passionate for architecting and constructing responsive, modular and extensible 
 
 ### Socials 🌍
 <p> 
-  LinkedIn: <a href="https://www.linkedin.com/in/vlad-legkovskii/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://gitlab.com/users/VladLegkowski/projects" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Personal%20Repo-GitLab-orange" />
+  <a href="https://gitlab.com/users/VladLegkowski/projects" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Personal%20Repo-GitLab-orange" />
 </p>
 
 ---
